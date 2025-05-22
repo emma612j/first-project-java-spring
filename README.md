@@ -6,7 +6,7 @@ This is a simple Java Spring Boot application built as an introduction to web de
 ## 🚀 Getting Started
 
 1. Run the application
-2. Open your browser at:  
+2. Open your browser at: 
    `http://localhost:8080/greeting?name=ken
 
 
